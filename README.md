@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Ai-Video-Player
+=======
+# Ai-Video-Player 
+>>>>>>> de8237f5df8d0d3b18f73f06a605c89f2efd5e28
 
 <h1 align="center">V-deo</h1>
 <p align="center">a simple video player using react
@@ -55,4 +59,8 @@ https://api-uat.greatmanagerinstitute.com/api/v2/getTrailerList
 - Visualisation of Data from that API
 - Handling HTML DOM Events
 - Understanding Component communication
+<<<<<<< HEAD
 - Know your Expertise of HTML/CSS
+=======
+- Know your Expertise of HTML/CSS
+>>>>>>> de8237f5df8d0d3b18f73f06a605c89f2efd5e28
